@@ -1,5 +1,7 @@
 # IDA Course Project | Team-9
 
+This repo contains the final notebook as well as all the supporting files used for the analysis and decision making for the final model
+
 ## Authors
 
 - Saarthak Sandip Marathe - ME17B162
